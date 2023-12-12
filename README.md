@@ -1,4 +1,4 @@
 # Projetos_Java
-AQUI SE ENCONTRAM ALGUNS DOS MEUS PROJETOS DESENVOLVIDO NA LINGUAGEM JAVA, TAL COMO UMA CALCULADORA UM JOGO 'SPACE INVADERS', um caixa eletronico simples e um sistema de cadastro de usuarios integrado com banco de dados. 
+AQUI SE ENCONTRAM ALGUNS DOS MEUS PROJETOS DESENVOLVIDO NA LINGUAGEM JAVA, TAL COMO UMA CALCULADORA UM JOGO 'SPACE INVADERS', um caixa eletronico simples e um sistema de cadastro e exclusao (CRUD) de usuarios integrado com banco de dados. 
 
 OS JOGOS E PROJETOS DESENVOLVIDOS AQUI ESTAO EM CONSTANTE EVOLUÇÃO E ALTERAÇÃO.
